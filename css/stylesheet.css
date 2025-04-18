@@ -184,7 +184,9 @@ main {
 }
 
 body {
-  background-color: #4c4d4c;
-  padding-left: 2250px;
-  padding-top: 100px;
-}
+ background-color: #4c4d4c;
+ margin: 0 auto;
+ width: 1600px;
+ padding: 20px;
+ padding-top: 100px;
+  }
